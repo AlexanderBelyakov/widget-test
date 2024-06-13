@@ -1,0 +1,9 @@
+.class {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  padding-left: 15%;
+}
+
+.class__field {
+  text-align: left;
+}

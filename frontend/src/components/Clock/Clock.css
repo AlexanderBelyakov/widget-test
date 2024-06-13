@@ -1,0 +1,13 @@
+.clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to right top, black, 70%, white);
+  width: 135px;
+  height: 135px;
+  border-radius: 50%;
+  border: 7px solid white;
+  color: white;
+  font-size: 40px;
+  font-style: italic;
+}

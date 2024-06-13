@@ -1,0 +1,28 @@
+.container {
+  width: 85%;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.container__header {
+  background-color: orange;
+  margin: 0;
+  text-align: center;
+  min-height: 50px;
+  color: white;
+  font-weight: 400;
+}
+
+.container__el-wrapper {
+  background-color: white;
+  padding: 5px 0;
+}
+
+.container__el-wrapper_even {
+  background-color: rgb(196, 194, 194);
+  padding: 0;
+}
+
+.container__el-wrapper_first {
+  color: red;
+}
